@@ -1,0 +1,14 @@
+Ballpoint pen
+12.30
+Envelope packet
+3.90
+Folder
+5.00
+Notebook
+4.20
+Pencil
+2.55
+Printing paper
+7.75
+Stapler
+9.90
