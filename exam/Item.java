@@ -5,9 +5,9 @@ public abstract class Item  implements Comparable<Item> {
 	private String name;
 	
 	@Override
-    public int compareTo(Item another){
-        return name.compareToIgnoreCase(another.name);
-    }
+	public int compareTo(Item another){
+		return name.compareToIgnoreCase(another.name);
+	}
 
 	public Item(String name) {
 		this.name = name;
